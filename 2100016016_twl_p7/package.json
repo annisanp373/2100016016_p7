@@ -1,0 +1,17 @@
+{
+  "name": "2100016016_twl_p7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.2.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
